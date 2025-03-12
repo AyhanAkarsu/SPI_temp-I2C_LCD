@@ -1,0 +1,2 @@
+../Drivers/MyDrivers/SPI_Init/Src/SPI_Init.c:3:6:SPI_Init	4	static
+../Drivers/MyDrivers/SPI_Init/Src/SPI_Init.c:29:10:SPI_ReadData	16	static
