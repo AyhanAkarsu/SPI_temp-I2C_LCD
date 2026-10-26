@@ -1,11 +1,11 @@
 /*
- * Aplication.c
+ * Application.c
  *
  *  Created on: Mar 6, 2025
  *      Author: Ayhan
  */
 
-#include "Aplication.h"
+#include "Application.h"
 
 static char* previousTemp  = NULL;
 

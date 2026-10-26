@@ -33,7 +33,7 @@ extern "C" {
 /* USER CODE BEGIN Includes */
 #include "I2C_Init.h"
 #include "SPI_Init.h"
-#include "Aplication.h"
+#include "Application.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
